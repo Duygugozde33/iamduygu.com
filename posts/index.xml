@@ -6,7 +6,16 @@
     <description>Recent content in Posts on I am Duygu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Apr 2021 20:25:38 +0200</lastBuildDate><atom:link href="https://iamduygu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://iamduygu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archives</title>
+      <link>https://iamduygu.com/posts/archives/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamduygu.com/posts/archives/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://iamduygu.com/posts/my-first-post/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://iamduygu.com/posts/my-first-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</description>
-    </item>
-    
-    <item>
-      <title>Archives</title>
-      <link>https://iamduygu.com/posts/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://iamduygu.com/posts/archives/</guid>
-      <description></description>
     </item>
     
     <item>
