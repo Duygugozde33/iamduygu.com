@@ -8,6 +8,7 @@ DefaultContentLanguage: en
 
 permalinks:
   posts: '/posts/:year/:month/:title/'
+  page: /:slug/
 params:
   mainSections:
     - posts
