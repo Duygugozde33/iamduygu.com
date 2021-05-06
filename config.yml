@@ -7,10 +7,10 @@ paginate: 5
 DefaultContentLanguage: en
 
 permalinks:
-  blog: '/:year/:month/:title/'
+  posts: '/:year/:month/:title/'
 params:
   mainSections:
-    - blog
+    - posts
   featuredImageField: image
   rssFullContent: true
   favicon:
