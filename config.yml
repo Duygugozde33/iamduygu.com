@@ -10,7 +10,7 @@ permalinks:
   blog: '/:year/:month/:title/'
 params:
   mainSections:
-    - post
+    - blog
   featuredImageField: image
   rssFullContent: true
   favicon:
