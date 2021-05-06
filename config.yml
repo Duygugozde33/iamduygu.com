@@ -4,10 +4,10 @@ title: I am Duygu
 theme: hugo-theme-stack
 paginate: 5
 
-permalinks:
-  post: /posts/:slug/
-  page: /:slug/
+DefaultContentLanguage: en
 
+permalinks:
+  blog: '/:year/:month/:title/'
 params:
   mainSections:
     - post
@@ -37,7 +37,7 @@ params:
       default: Licensed under CC BY-NC-SA 4.0
 
   comments:
-    enabled: true
+    enabled: false
     provider: disqus
 
     utterances:
@@ -81,7 +81,7 @@ params:
     toggle: true
 
     # Available values: auto, light, dark
-    default: auto
+    default: dark
 
   imageProcessing:
     cover:
