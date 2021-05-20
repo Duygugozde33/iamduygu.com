@@ -1,6 +1,6 @@
 ---
 title: "Endüstri 4.0"
-slug: "endustri"
+slug: "industry"
 description: "Sanayi Devremi"
 date: 2021-05-20T19:41:33+02:00
 draft: false
