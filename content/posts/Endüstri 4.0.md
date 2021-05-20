@@ -1,5 +1,6 @@
 
-#Endüstri 4.0#
+# Endüstri 4.0
+
 Birçok otomasyon sistemini, veri alışverişlerini ve üretim teknolojilerini içeren kollektif bir terimdir.
 Bu devrim nesnelerinin interneti, internetin hizmetleri ve siber - fiziksel sistemlerden oluşan bir değerler bütünüdür.
 
